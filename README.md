@@ -37,4 +37,4 @@ Lathi B.P. (2001). Cap 4 Sistemas de comunicación: modulación angular. En Intr
 México, D.F. Editorial LIMUSA S.A. de C.V.
 
 ## Referencias
-FM.m Copyright (c) 2012, SHEIKH MUKHTAR HUSSAIN All rights reserved.
+SHEIKH MUKHTAR HUSSAIN (2012). FM.m. Copyright (c). All rights reserved.
